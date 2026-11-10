@@ -1,0 +1,15 @@
+# Visual Studio C++ outputs
+.vs/
+**/.vs/
+**/Debug/
+**/Release/
+**/x64/
+*.suo
+*.user
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.idb
+*.tlog
+*.log
